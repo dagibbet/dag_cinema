@@ -1,7 +1,7 @@
 Config = {}
 
 Config.RandomTransitions = false
-Config.job = "police"
+Config.job = "cinema"
 Config.Shows = Globals.Shows
 Config.Projections = Globals.Projections
 Config.Movies = Globals.Movies
